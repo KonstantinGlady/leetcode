@@ -1,4 +1,4 @@
-package arrays.serchInsert;
+package arrays.searchInsert;
 
 public class SolutionSearchInsert {
     public static void main(String[] args) {
